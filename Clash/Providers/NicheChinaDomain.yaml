@@ -1,0 +1,4 @@
+payload:
+  # 小众网站 (不直连就无法访问)
+  - DOMAIN-SUFFIX,foxirj.com
+  - DOMAIN-SUFFIX,ruancan.com

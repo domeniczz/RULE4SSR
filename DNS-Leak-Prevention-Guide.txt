@@ -1,0 +1,11 @@
+1. Use TUN mode in Clash for windows (ATTENTION: choose enhanced-mode to be "fake-ip")
+
+2. Go to group editor (Win + R gpedit.msc), Computer Configuration -> Administrative Templates -> Network -> DNS Client -> turn off smart multi-homed name resolution -> "Enabled"
+
+3. Use "Subscription Converter" tools (https://sub-web.netlify.app, https://acl4ssr-sub.github.io/), use "enhanced mode", paste your subscription address, choose a random remote config, and generate subscription link. Then edit the manually to replace address behind "&config=" with "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
+
+ATTENTION: recommend using local server (run https://github.com/tindy2013/subconverter/releases)
+
+4. (Optional) go to "chrome://flags" and disable "Experimental QUIC protocol", because QUIC is based on UDP, and clash will always, for now, send DNS requests when dealing with UDP requests. Currently, some Google sites use QUIC protocol.
+
+Credit: https://www.youtube.com/@bulianglin
