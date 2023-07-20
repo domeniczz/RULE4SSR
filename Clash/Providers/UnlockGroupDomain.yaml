@@ -1,0 +1,4 @@
+payload:
+  # 被限制的域名，需要走不会限制的机场代理
+  - DOMAIN-SUFFIX,torrentfreak.com
+  - DOMAIN-SUFFIX,similarweb.com
