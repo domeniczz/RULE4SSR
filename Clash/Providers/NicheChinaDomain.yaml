@@ -1,5 +1,8 @@
 payload:
-  # 内容: 国内小众网站 (不直连就无法访问)
+  # 内容: 国内网站 (不直连就无法访问)
+
+  # 码云
+  - DOMAIN-SUFFIX,gitee.com
 
   # 蓝奏云
   - DOMAIN-SUFFIX,lanzou.com
