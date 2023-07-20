@@ -1,0 +1,4 @@
+# 要走代理的域名
+DOMAIN-KEYWORD,strip
+DOMAIN-KEYWORD,sentry
+DOMAIN-SUFFIX,sentry.io
