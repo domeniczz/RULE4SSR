@@ -44,9 +44,20 @@ DOMAIN-SUFFIX,lizhi.shop
 DOMAIN-SUFFIX,apsgo.com
 
 DOMAIN-SUFFIX,ruancan.com
+DOMAIN-SUFFIX,okjike.com
 
 # 学习
+DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,ydlclass.com
 DOMAIN-SUFFIX,liaoxuefeng.com
 DOMAIN-SUFFIX,itheima.com
 DOMAIN-SUFFIX,atguigu.com
+
+# 工作
+DOMAIN-SUFFIX,wondercv.com
+DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,liepin.com
+DOMAIN-SUFFIX,shixiseng.com
+DOMAIN-SUFFIX,nowcoder.com
+DOMAIN-SUFFIX,jisuanke.com
+DOMAIN-SUFFIX,tou.com
